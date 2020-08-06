@@ -6,6 +6,7 @@
 扫描成为spring管理的bean
 `ClassPathWokerScanner`
 `ZkIdWorkerBeanDefinitionRegistrar`
+
 动态代理
 `IdWorkProxy`
 
